@@ -1,0 +1,130 @@
+<html>
+  <head>
+    <title>KMX.IO</title>
+    <link rel="stylesheet" type="text/css"
+          href="/Computer-Modern/cmtypewriter.css"/>
+    <link rel="stylesheet" type="text/css"
+          href="/Computer-Modern/cmserif.css"/>
+    <link rel="stylesheet" type="text/css"
+          href="/Computer-Modern/cmsans.css"/>
+    <link rel="stylesheet" type="text/css"
+          href="/kmx.css"/>
+    <meta charset="utf-8"/>
+  <body>
+    <h1 style="position:relative">
+      <img src="/logo/kmx.svg"
+           style="position:absolute; vertical-align:baseline; z-index:-1"
+           alt=""/>
+      ( <a href="/"> kmx.io</a> )
+    </h1>
+    <p>
+      Providing about web services, UNIX, and Common Lisp.
+    </p>
+
+    <h2>1. <a href="/hosting/">Hosting</a></h2>
+    <p>
+      Website and web services hosting on dedicated servers.
+    </p>
+
+    <h3>1.1 <a href="/hosting/OpenBSD/">OpenBSD hosting</a></h3>
+    <p>
+    </p>
+
+    <h3>1.2 <a href="/hosting/Debian/">Debian Linux hosting</a></h3>
+    <p>
+    </p>
+
+    <h2>2. <a href="/dev/">Development</a></h2>
+    <p>
+      Open-source based development, mainly targeting UNIX and
+      Common Lisp.
+    </p>
+
+    <h3>2.1 <a href="/dev/c/">C</a></h3>
+    <p>
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">C</a>
+      is probably the true reason for the success of
+      <a href="https://en.wikipedia.org/wiki/Unix" target="_blank">UNIX</a>
+      as an operating system.
+    </p>
+
+    <h3>2.2 <a href="/dev/cxx/">C++</a></h3>
+    <p>
+      <a href="https://en.wikipedia.org/wiki/C++" target="_blank">C++</a>
+      is an industry leader in object oriented programming.
+    </p>
+
+    <h3>2.3 <a href="/dev/common-lisp/">Common Lisp</a></h3>
+    <p>
+      <a href="https://cliki.net/" target="_blank">Common Lisp</a>
+      is one of the few programming languages still in use after
+      20 years of existence.
+    </p>
+    <p>
+      It has the best object model around (CLOS), compiles to native
+      code and supports multiple paradigms thanks to macros which make
+      the compiler itself programmable.
+    </p>
+    <p>
+      Its weights are an archaic namespace, lack of non-blocking semantics
+      for streams, and loads of misconceptions forwarded by non-lispers.
+      However the standard is stable and there are many compilers so the
+      notion of bitrot has almost disappeared.
+    </p>
+    <p>
+      The open-source (and free) native compilers are quite young and the
+      open source community is on the rise. The party is just starting now.
+    </p>
+    
+    <h4>2.3.1 <a href="/dev/common-lisp/cffi-posix/">cffi-posix</a></h4>
+    <p>
+      Open-source project to portably and regularly expose the
+      <a href="http://pubs.opengroup.org/onlinepubs/9699919799/" target="_blank">POSIX</a>
+      API to Common Lisp programs using
+      <a href="https://common-lisp.net/project/cffi/" target="_blank">CFFI</a>.
+    </p>
+
+    <h4>2.3.2 <a href="/dev/common-lisp/cl-stream/">cl-stream</a></h4>
+    <p>
+      Experimental project to replace Common Lisp streams with
+      streams supporting any type of data and non-blocking semantics,
+      following principles found in
+      <a href="https://github.com/sarabander/sicp-pdf/blob/master/sicp.pdf" target="_blank">SICP</a>.
+    </p>
+    <p>
+      Includes a standard library of stream classes to be re-used
+      easily.
+    </p>
+
+    <h4>2.3.3 <a href="/dev/common-lisp/adams/">adams</a></h4>
+    <p>
+      Adams is a UNIX system administrator written in Common Lisp.
+      It produces commands for the shell (/bin/sh) for local or
+      remote hosts using
+      <a href="https://www.openssh.com/" target="_blank">SSH</a>
+      in order to retrieve and modify a UNIX system status.
+
+      Currently it allows automated administration of users, groups and
+      packages on Linux and OpenBSD without any additional requirement
+      or installation on the target machines.
+    </p>
+
+    <h2>3. About</h2>
+    <p>
+      This website is hosted on
+      <a href="/hosting/Debian/">Debian Linux</a>
+      using
+      <a href="/dev/common-lisp/RailsOnLisp/thot">Thot</a>.
+    </p>
+
+    <h3>3.1 Contact</h3>
+    <p>
+      Thomas de Grivel &lt;thoxdg@gmail.com&gt;
+    </p>
+
+    <hr>
+    <p>
+      &copy; 2018 kmx.io
+    </p>
+  </body>
+</html>

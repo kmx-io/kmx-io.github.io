@@ -1,0 +1,24 @@
+body {
+    font-family: "Computer Modern Typewriter";
+    background: #DEF;
+    font-size: 150%;
+}
+a {
+    color: #609;
+    text-decoration: none;
+}
+a:hover {
+    color: #000;
+}
+p {
+    max-width: 30em;
+}
+h1 {
+    font-family: "Computer Modern Serif";
+    font-style: italic;
+    font-size: 80px;
+    font-weight: normal;
+}
+h1 a:hover {
+    color: #90E;
+}

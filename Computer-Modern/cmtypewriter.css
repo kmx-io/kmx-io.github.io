@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Computer Modern Typewriter";
+    url('cmuntt.otf') format('opentype'),
+    url('cmuntt.ttf') format('truetype'),
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Computer Modern Typewriter";
+    url('cmuntb.otf') format('opentype'),
+    url('cmuntb.ttf') format('truetype'),
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Computer Modern Typewriter";
+    src: url('cmunbtl.otf') format('opentype'),
+         url('cmunbtl.ttf') format('truetype');
+    font-weight: lighter;
+    font-style: normal;
+}
