@@ -32,6 +32,17 @@
       <a href="/dev/common-lisp/cl-stream">cl-stream</a>
       to abstract streams.
     </p>
+    <p>
+      For now only the SELECT acceptor loop is stable and threads are
+      disabled. If you want to test Thot with threads please edit
+      the file ./thot to set *disable-threads* to NIL.
+    </p>
+    <p>
+      You can use (thot:maybe-configure-epoll) in your startup file to
+      enable epoll acceptor loop on systems supporting it. Other systems
+      will be unaffected. The epoll acceptor loop is considered unstable
+      and going through debugging. Please send test feedback if you can.
+    </p>
 
     <h3>2 Contributing</h3>
     <p>
