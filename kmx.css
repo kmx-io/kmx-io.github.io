@@ -22,3 +22,6 @@ h1 {
 h1 a:hover {
     color: #90E;
 }
+.right {
+    text-align: right;
+}
