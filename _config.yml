@@ -3,3 +3,5 @@ theme: jekyll-theme-slate
 title: kmx.io
 description:
 show_downloads: false
+github:
+  repository_url: https://github.com/kmx-io
