@@ -82,6 +82,8 @@ or installation on the target machines.
 
 #### 2.3.4 Rails on Lisp
 [Rails on Lisp](https://github.com/RailsOnLisp)
+Common Lisp MVC web development framework inspired by
+[RubyOnRails](https://rubyonrails.org/).
 
 #### 2.3.5 Thot
 [Thot](https://github.com/RailsOnLisp/thot)
