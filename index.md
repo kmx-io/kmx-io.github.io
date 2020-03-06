@@ -89,6 +89,9 @@ Common Lisp MVC web development framework inspired by
 [Thot](https://github.com/RailsOnLisp/thot)
 Threaded HTTP server supporting epoll and kqueue in Common Lisp.
 
+### 2.4 Ruby
+[Ruby](https://www.ruby-lang.org/) is nice.
+
 -----
 
 &copy; 2018-2020 kmx.io
