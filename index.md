@@ -1,19 +1,43 @@
-## Hosting
+## 1 Hosting
 [OpenBSD](http://www.openbsd.org) is rock solid.
 
-## Development
+## 2 Development
 Open-source based development, mainly targeting UNIX and
 Common Lisp.
 
-### C
+### 2.1 C
 [C](https://en.wikipedia.org/wiki/C_(programming_language))
 is probably the true reason for the success of
 [UNIX](https://en.wikipedia.org/wiki/Unix)
 as an operating system.
 
-### C++
+#### 2.1.1 Rtbuf
+[Rtbuf](https://rtbuf.kmx.io/)
+is BSD licensed ANSI C for realtime signal processing.
 
-### Common Lisp
+It seems that these last years most programming action happens in
+high level programming languages which rely on garbage collectors
+to free memory. The problem of a GC is that it induces latency because
+while the program is stopped collecting free memory it stops other
+processing so real-time applications are not possible with most modern
+programming languages. Multi-processor safe and real-time garbage
+collectors are not open source and very expensive pieces of software.
+
+A possible solution to handle real time computation on a garbage
+collected platform is to offload real-time computations to a C server
+running rtbuf which has no garbage collector and is highly portable.
+
+Possible applications include audio and video applications, games
+and experimental setups.
+
+Current audience is developers. Status : alpha.
+
+See the project page on Github :
+[https://github.com/rtbuf/rtbuf](https://github.com/rtbuf/rtbuf)
+
+### 2.2 C++
+
+### 2.3 Common Lisp
 [Common Lisp](https://cliki.net/)
 is one of the few programming languages still in use after
 20 years of existence.
@@ -30,13 +54,13 @@ notion of bitrot has almost disappeared.
 The open-source (and free) native compilers are quite young and the
 open source community is on the rise. The party is just starting now.
 
-#### cffi-posix
+#### 2.3.1 cffi-posix
 Open-source project to portably and regularly expose the
 [POSIX](http://pubs.opengroup.org/onlinepubs/9699919799/)
 API to Common Lisp programs using
 [CFFI](https://common-lisp.net/project/cffi/)
 
-#### cl-stream
+#### 2.3.2 cl-stream
 Experimental project to replace Common Lisp streams with
 streams supporting any type of data and non-blocking semantics,
 following principles found in
@@ -45,7 +69,7 @@ following principles found in
 Includes a standard library of stream classes to be re-used
 easily.
 
-#### adams
+#### 2.3.3 adams
 Adams is a UNIX system administrator written in Common Lisp.
 It produces commands for the shell (/bin/sh) for local or
 remote hosts using
@@ -55,5 +79,8 @@ in order to retrieve and modify a UNIX system status.
 Currently it allows automated administration of users, groups and
 packages on Linux and OpenBSD without any additional requirement
 or installation on the target machines.
+
+#### 2.3.4 Rails on Lisp
+[Rails on Lisp](https://github.com/RailsOnLisp)
 
 &copy; 2018-2020 kmx.io
