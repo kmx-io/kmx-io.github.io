@@ -95,3 +95,5 @@ Threaded HTTP server supporting epoll and kqueue in Common Lisp.
 -----
 
 &copy; 2018-2020 kmx.io
+
+{% page.title = 'C, Common Lisp, UNIX' %}
