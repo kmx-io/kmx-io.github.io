@@ -83,4 +83,10 @@ or installation on the target machines.
 #### 2.3.4 Rails on Lisp
 [Rails on Lisp](https://github.com/RailsOnLisp)
 
+#### 2.3.5 Thot
+[Thot](https://github.com/RailsOnLisp/thot)
+Threaded HTTP server supporting epoll and kqueue in Common Lisp.
+
+-----
+
 &copy; 2018-2020 kmx.io
