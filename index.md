@@ -59,13 +59,15 @@ The open-source (and free) native compilers are quite young and the
 open source community is on the rise. The party is just starting now.
 
 #### 2.3.1 cffi-posix
-Open-source project to portably and regularly expose the
+[cffi-posix](https://github.com/cffi-posix)
+is an open-source project to portably and regularly expose the
 [POSIX](http://pubs.opengroup.org/onlinepubs/9699919799/)
 API to Common Lisp programs using
 [CFFI](https://common-lisp.net/project/cffi/)
 
 #### 2.3.2 cl-stream
-Experimental project to replace Common Lisp streams with
+[cl-stream](https://github.com/cl-stream)
+is an experimental project to replace Common Lisp streams with
 streams supporting any type of data and non-blocking semantics,
 following principles found in
 [SICP](https://github.com/sarabander/sicp-pdf/blob/master/sicp.pdf)
@@ -73,8 +75,17 @@ following principles found in
 Includes a standard library of stream classes to be re-used
 easily.
 
+cl-stream streams are compatible with
+[cffi-epoll](https://github.com/cffi-posix/cffi-epoll)
+and
+[cffi-kqueue](https://github.com/cffi-posix/cffi-kqueue)
+. See
+[Thot](https://github.com/RailsOnLisp/thot)
+for an example usage.
+
 #### 2.3.3 adams
-Adams is a UNIX system administrator written in Common Lisp.
+[Adams](https://github.com/cl-adams/adams)
+is a UNIX system administrator written in Common Lisp.
 It produces commands for the shell (/bin/sh) for local or
 remote hosts using
 <a href="https://www.openssh.com/" target="_blank">SSH</a>
