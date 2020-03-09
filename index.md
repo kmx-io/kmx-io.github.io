@@ -102,8 +102,9 @@ packages on Linux and OpenBSD without any additional requirement
 or installation on the target machines.
 
 #### 2.3.4 RailsOnLisp
-[![ROL](https://avatars2.githubusercontent.com/u/11281575?s=96)
- RailsOnLisp](https://github.com/RailsOnLisp)
+[![ROL](https://avatars2.githubusercontent.com/u/11281575?s=96)](https://github.com/RailsOnLisp)
+
+[RailsOnLisp](https://github.com/RailsOnLisp)
 Common Lisp MVC web development framework inspired by
 [RubyOnRails](https://rubyonrails.org/).
 
