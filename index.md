@@ -84,7 +84,8 @@ and
 for an example usage.
 
 #### 2.3.3 adams
-[Adams](https://github.com/cl-adams/adams)
+[![(adams)](https://avatars1.githubusercontent.com/u/38501850)
+ Adams](https://github.com/cl-adams/adams)
 is a UNIX system administrator written in Common Lisp.
 It produces commands for the shell (/bin/sh) for local or
 remote hosts using
