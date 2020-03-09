@@ -105,8 +105,11 @@ or installation on the target machines.
 [![ROL](https://avatars2.githubusercontent.com/u/11281575?s=96)](https://github.com/RailsOnLisp)
 
 [RailsOnLisp](https://github.com/RailsOnLisp)
-Common Lisp MVC web development framework inspired by
-[RubyOnRails](https://rubyonrails.org/).
+Common Lisp MVC web development framework very much
+inspired by [RubyOnRails](https://rubyonrails.org/).
+
+The goal is to give Ruby programmers an insight into Common Lisp
+through the Rails API and principles.
 
 #### 2.3.5 Thot
 [Thot](https://github.com/RailsOnLisp/thot)
