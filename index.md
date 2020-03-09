@@ -41,6 +41,17 @@ Current audience is developers. Status : alpha.
 See the project page on Github :
 [https://github.com/rtbuf/rtbuf](https://github.com/rtbuf/rtbuf)
 
+#### 2.1.2 git-auth
+[git-auth](https://github.com/kmx-io/git-auth)
+is a restricted shell for your git user on your server.
+
+It sends commands through
+[git-shell](https://git-scm.com/docs/git-shell).
+
+It supports rule matching to allow git commands
+based on an environment variable set in authorized_keys file.
+
+
 ### 2.2 C++
 
 ### 2.3 Common Lisp
