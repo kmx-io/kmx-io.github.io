@@ -95,8 +95,8 @@ Currently it allows automated administration of users, groups and
 packages on Linux and OpenBSD without any additional requirement
 or installation on the target machines.
 
-#### 2.3.4 Rails on Lisp
-[Rails on Lisp](https://github.com/RailsOnLisp)
+#### 2.3.4 RailsOnLisp
+[RailsOnLisp](https://github.com/RailsOnLisp)
 Common Lisp MVC web development framework inspired by
 [RubyOnRails](https://rubyonrails.org/).
 
