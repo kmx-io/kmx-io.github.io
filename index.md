@@ -16,6 +16,8 @@ is probably the true reason for the success of
 as an operating system.
 
 #### 2.1.1 Rtbuf
+[![{rtbuf}](https://avatars0.githubusercontent.com/u/61788641?s=96)](https://rtbuf.kmx.io/)
+
 [Rtbuf](https://rtbuf.kmx.io/)
 is BSD licensed ANSI C for realtime signal processing.
 
