@@ -59,7 +59,7 @@ The open-source (and free) native compilers are quite young and the
 open source community is on the rise. The party is just starting now.
 
 #### 2.3.1 cffi-posix
-[![(cffi-posix)](https://avatars3.githubusercontent.com/u/28656020)
+[![(cffi-posix)](https://avatars3.githubusercontent.com/u/28656020?s=96)
  cffi-posix](https://github.com/cffi-posix)
 is an open-source project to portably and regularly expose the
 [POSIX](http://pubs.opengroup.org/onlinepubs/9699919799/)
@@ -85,7 +85,7 @@ and
 for an example usage.
 
 #### 2.3.3 adams
-[![(adams)](https://avatars1.githubusercontent.com/u/38501850)
+[![(adams)](https://avatars1.githubusercontent.com/u/38501850?s=96)
  Adams](https://github.com/cl-adams/adams)
 is a UNIX system administrator written in Common Lisp.
 It produces commands for the shell (/bin/sh) for local or
@@ -98,7 +98,7 @@ packages on Linux and OpenBSD without any additional requirement
 or installation on the target machines.
 
 #### 2.3.4 RailsOnLisp
-[![ROL](https://avatars2.githubusercontent.com/u/11281575)
+[![ROL](https://avatars2.githubusercontent.com/u/11281575?s=96)
  RailsOnLisp](https://github.com/RailsOnLisp)
 Common Lisp MVC web development framework inspired by
 [RubyOnRails](https://rubyonrails.org/).
