@@ -112,6 +112,8 @@ The goal is to give Ruby programmers an insight into Common Lisp
 through the Rails API and principles.
 
 #### 2.3.5 Thot
+[![Thot](https://repository-images.githubusercontent.com/86985450/bb450a80-61f4-11ea-8007-754183b76786)](https://github.com/RailsOnLisp/thot)
+
 [Thot](https://github.com/RailsOnLisp/thot)
 Threaded HTTP server supporting epoll and kqueue in Common Lisp.
 
