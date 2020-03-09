@@ -61,8 +61,7 @@ The open-source (and free) native compilers are quite young and the
 open source community is on the rise. The party is just starting now.
 
 #### 2.3.1 cffi-posix
-[![(cffi-posix)](https://avatars3.githubusercontent.com/u/28656020?s=96)]
-(https://github.com/cffi-posix)
+[![(cffi-posix)](https://avatars3.githubusercontent.com/u/28656020?s=96)](https://github.com/cffi-posix)
 
 [cffi-posix](https://github.com/cffi-posix)
 is an open-source project to portably and regularly expose the
