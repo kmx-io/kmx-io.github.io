@@ -131,6 +131,12 @@ Threaded HTTP server supporting epoll and kqueue in Common Lisp.
 ### 2.4 Ruby
 [Ruby](https://www.ruby-lang.org/) is nice.
 
+
+## 3 Talks
+
+<https://github.com/thodg/slides>
+
+
 -----
 
 &copy; 2018-2020 kmx.io
