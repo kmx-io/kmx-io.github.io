@@ -6,14 +6,16 @@ title: Secure and reliable website hosting solutions
 
 ### 1.1 Hardware : dedicated servers
 
-We can configure dedicated servers for custom needs.
+We provide colocation on dedicated servers for every solution.
+We get better performances and less complexity on real hardware compared
+to virtual machines.
 
 ### 1.2 Operating system : OpenBSD
 
 The best operating system we found for a secure website is
 [OpenBSD](http://www.openbsd.org).
 It is simple, follows UNIX principles and is more secure than other
-operating systems.
+operating systems out of the box.
 
 OpenBSD provides OpenSSH, OpenNTPd, unbound, pf, and a very strong
 network stack.
