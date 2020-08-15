@@ -37,3 +37,6 @@ Pricing starts at 200€ per month.
 Hosting needs are evaluated on a per project basis.
 Please contact us for further discussion about your project.
 [contact@kmx.io](mailto:contact@kmx.io)
+
+After discussion and setup we provide a private SSH access so you can
+deploy your application from Git.
