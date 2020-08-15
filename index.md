@@ -2,8 +2,7 @@
 title: C, Common Lisp, UNIX
 ---
 
-## 1 Hosting
-[OpenBSD](http://www.openbsd.org) is rock solid.
+## 1 [Hosting](/hosting)
 
 ## 2 Development
 Open-source based development, mainly targeting UNIX and

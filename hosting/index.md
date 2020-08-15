@@ -1,0 +1,39 @@
+---
+title: Secure and reliable website hosting solutions
+---
+
+## 1 Our stack
+
+### 1.1 Hardware : dedicated servers
+
+We can configure dedicated servers for custom needs.
+
+### 1.2 Operating system : OpenBSD
+
+The best operating system we found for a secure website is
+[OpenBSD](http://www.openbsd.org).
+It is simple, follows UNIX principles and is more secure than other
+operating systems.
+
+### 1.3 HTTP server : Nginx
+
+The best HTTP server we found is
+[nginx](https://nginx.org).
+It is robust and minimalistic like the rest of the system.
+
+### 1.4 Application layer
+
+We support Ruby, Elixir, PHP, Common Lisp and C/C++ hosting.
+We can provide security audits and feature development for
+these languages too.
+
+## 2 Pricing
+
+Pricing starts at 200€ per month.
+
+
+## 3 Contact
+
+Hosting needs are evaluated on a per project basis.
+Please contact us for further discussion about your project.
+[contact@kmx.io](mailto:contact@kmx.io)
