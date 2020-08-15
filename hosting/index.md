@@ -15,6 +15,9 @@ The best operating system we found for a secure website is
 It is simple, follows UNIX principles and is more secure than other
 operating systems.
 
+OpenBSD provides OpenSSH, OpenNTPd, unbound, pf, and a very strong
+network stack.
+
 ### 1.3 HTTP server : Nginx
 
 The best HTTP server we found is
@@ -32,7 +35,7 @@ these languages too.
 Pricing starts at 200€ per month.
 
 
-## 3 Contact
+## 3 Process
 
 Hosting needs are evaluated on a per project basis.
 Please contact us for further discussion about your project.
