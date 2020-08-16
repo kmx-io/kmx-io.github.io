@@ -29,8 +29,8 @@ It is robust and minimalistic like the rest of the system.
 ### 1.4 Application layer
 
 We support Ruby, Elixir, PHP, Common Lisp and C/C++ hosting.
-We can provide security audits and feature development for
-these languages too.
+We can provide maintenance (security upgrades), security audits and
+feature development for these languages too.
 
 
 ## 2 Pricing
