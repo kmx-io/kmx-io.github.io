@@ -1,5 +1,5 @@
 ---
-title: Secure and reliable website hosting solutions
+title: Secure and reliable web hosting solutions
 ---
 
 ## 1 Our stack
@@ -8,7 +8,7 @@ title: Secure and reliable website hosting solutions
 
 We provide colocation on dedicated servers for every solution.
 We get better performances and less complexity on real hardware compared
-to virtual machines.
+to virtual machines. Less complexity means less bugs and exploits.
 
 ### 1.2 Operating system : OpenBSD
 
@@ -31,6 +31,7 @@ It is robust and minimalistic like the rest of the system.
 We support Ruby, Elixir, PHP, Common Lisp and C/C++ hosting.
 We can provide security audits and feature development for
 these languages too.
+
 
 ## 2 Pricing
 
