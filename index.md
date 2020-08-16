@@ -5,16 +5,19 @@ title: C, Common Lisp, UNIX
 ## 1 [Hosting](/hosting)
 
 ## 2 Development
-Open-source based development, mainly targeting UNIX and
-Common Lisp.
+Commercial and open-source development, mainly targeting UNIX.
 
-### 2.1 C
+### 2.1 [Elixir](/elixir)
+
+We recommend [Elixir](/elixir) and Phoenix for website development.
+
+### 2.2 C
 [C](https://en.wikipedia.org/wiki/C_(programming_language))
 is probably the true reason for the success of
 [UNIX](https://en.wikipedia.org/wiki/Unix)
 as an operating system.
 
-#### 2.1.1 Rtbuf
+#### 2.2.1 Rtbuf
 [![{rtbuf}](https://avatars0.githubusercontent.com/u/61788641?s=96)](https://rtbuf.kmx.io/)
 
 [Rtbuf](https://rtbuf.kmx.io/)
@@ -40,7 +43,7 @@ Current audience is developers. Status : alpha.
 See the project page on Github :
 [https://github.com/rtbuf/rtbuf](https://github.com/rtbuf/rtbuf)
 
-#### 2.1.2 git-auth
+#### 2.2.2 git-auth
 [git-auth](https://github.com/kmx-io/git-auth)
 is a restricted shell for your git user on your server.
 
@@ -51,9 +54,9 @@ It supports rule matching to allow git commands
 based on an environment variable set in authorized_keys file.
 
 
-### 2.2 C++
+### 2.3 C++
 
-### 2.3 Common Lisp
+### 2.4 Common Lisp
 [Common Lisp](https://cliki.net/)
 is one of the few programming languages still in use after
 20 years of existence.
@@ -70,7 +73,7 @@ notion of bitrot has almost disappeared.
 The open-source (and free) native compilers are quite young and the
 open source community is on the rise. The party is just starting now.
 
-#### 2.3.1 cffi-posix
+#### 2.4.1 cffi-posix
 [![(cffi-posix)](https://avatars3.githubusercontent.com/u/28656020?s=96)](https://github.com/cffi-posix)
 
 [cffi-posix](https://github.com/cffi-posix)
@@ -79,7 +82,7 @@ is an open-source project to portably and regularly expose the
 API to Common Lisp programs using
 [CFFI](https://common-lisp.net/project/cffi/)
 
-#### 2.3.2 cl-stream
+#### 2.4.2 cl-stream
 [cl-stream](https://github.com/cl-stream)
 is an experimental project to replace Common Lisp streams with
 streams supporting any type of data and non-blocking semantics,
@@ -97,7 +100,7 @@ and
 [Thot](https://github.com/RailsOnLisp/thot)
 for an example usage.
 
-#### 2.3.3 adams
+#### 2.4.3 adams
 [![(adams)](https://avatars1.githubusercontent.com/u/38501850?s=96)](https://github.com/cl-adams/adams)
 
 [Adams](https://github.com/cl-adams/adams)
@@ -111,7 +114,7 @@ Currently it allows automated administration of users, groups and
 packages on Linux and OpenBSD without any additional requirement
 or installation on the target machines.
 
-#### 2.3.4 RailsOnLisp
+#### 2.4.4 RailsOnLisp
 [![ROL](https://avatars2.githubusercontent.com/u/11281575?s=96)](https://github.com/RailsOnLisp)
 
 [RailsOnLisp](https://github.com/RailsOnLisp)
@@ -121,13 +124,13 @@ inspired by [RubyOnRails](https://rubyonrails.org/).
 The goal is to give Ruby programmers an insight into Common Lisp
 through the Rails API and principles.
 
-#### 2.3.5 Thot
+#### 2.4.5 Thot
 [![Thot](https://repository-images.githubusercontent.com/86985450/bb450a80-61f4-11ea-8007-754183b76786)](https://github.com/RailsOnLisp/thot)
 
 [Thot](https://github.com/RailsOnLisp/thot)
 Threaded HTTP server supporting epoll and kqueue in Common Lisp.
 
-### 2.4 Ruby
+### 2.5 Ruby
 [Ruby](https://www.ruby-lang.org/) is nice.
 
 
