@@ -1,7 +1,7 @@
 url: https://www.kmx.io/
 theme: jekyll-theme-slate
 title: kmx.io
-description:
+description: Elixir, Ruby, C, Common Lisp, UNIX
 show_downloads: false
 github:
   repository_url: https://github.com/kmx-io
