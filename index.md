@@ -1,5 +1,5 @@
 ---
-title: C, Common Lisp, UNIX
+title: Elixir, Ruby, C, Common Lisp, UNIX
 ---
 
 ## 1 [Hosting](/hosting)
