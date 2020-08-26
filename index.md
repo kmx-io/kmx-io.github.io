@@ -74,7 +74,7 @@ The open-source (and free) native compilers are quite young and the
 open source community is on the rise. The party is just starting now.
 
 #### 2.4.1 [cl-facts](https://github.com/facts-db/cl-facts)
-[![(cl-facts)](https://avatars0.githubusercontent.com/u/38696724?s=96)](https://github.com/facts-db/cl-facts)
+[![(cl-facts)](https://avatars0.githubusercontent.com/u/38696724?u=74a549e6adb7e60bbfaa9f2088a8b2d81816c58e&v=4&s=96)](https://github.com/facts-db/cl-facts)
 
 [facts-db](https://github.com/facts-db) is an in-memory graph database
 implemented in various languages.
