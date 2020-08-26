@@ -91,7 +91,7 @@ ground between low level and high level database management system.
 There is much room for improvement but we consider it production ready.
 
 [cl-facts](https://github.com/facts-db/cl-facts) is a Common Lisp
-implementation of facts-db. It is available under the ISC license.
+implementation of facts-db available under the ISC license.
 
 #### 2.4.2 cffi-posix
 [![(cffi-posix)](https://avatars3.githubusercontent.com/u/28656020?s=96)](https://github.com/cffi-posix)
