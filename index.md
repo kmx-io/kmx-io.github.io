@@ -8,7 +8,7 @@ Dedicated hardware, OpenBSD, nginx hosting.
 We host your Elixir, Ruby, Common Lisp, C/C++ project.
 
 ## 2 Development
-Commercial and open-source development, targeting BSD, Linux, Windows.
+Commercial and open-source development targeting BSD, Linux, Windows.
 
 We can deliver small websites rapidly and large scale web applications
 on time and budget using Elixir/Phoenix.
