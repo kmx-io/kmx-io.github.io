@@ -76,11 +76,13 @@ open source community is on the rise. The party is just starting now.
 #### 2.4.1 [cl-facts](https://github.com/facts-db/cl-facts)
 [![(cl-facts)](https://avatars0.githubusercontent.com/u/38696724?u=74a549e6adb7e60bbfaa9f2088a8b2d81816c58e&v=4&s=96)](https://github.com/facts-db/cl-facts)
 
-[facts-db](https://github.com/facts-db) is an in-memory graph database
-implemented in various languages.
+[facts-db](https://github.com/facts-db) is a very fast, concurrent,
+in-memory, graph database (triple store) implemented in various languages.
+With facts-db you can represent and structure any kind of data without
+a schema. Join queries are considered the norm in a graph database.
 
 [cl-facts](https://github.com/facts-db/cl-facts) is a Common Lisp
-implementation of facts-db.
+implementation of facts-db. It is available under the ISC license.
 
 #### 2.4.2 cffi-posix
 [![(cffi-posix)](https://avatars3.githubusercontent.com/u/28656020?s=96)](https://github.com/cffi-posix)
