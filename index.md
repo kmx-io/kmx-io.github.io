@@ -167,6 +167,8 @@ If you need to outsource hosting, maintenance, or development please get in touc
 
 Contact us with your project details and budget at contact@kmx.io.
 
+## 5 [Our team](/team/)
+
 -----
 
 &copy; 2018-2020 Thomas de Grivel <thoxdg@gmail.com>
