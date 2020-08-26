@@ -85,7 +85,10 @@ open source community is on the rise. The party is just starting now.
 [facts-db](https://github.com/facts-db) is a very fast, concurrent,
 in-memory, graph database (triple store) implemented in various languages.
 With facts-db you can represent and structure any kind of data without
-a schema. Join queries are considered the norm in a graph database.
+a schema. Join queries are considered the norm in a graph database and are
+as fast as normal queries. Given the small footprint of facts-db the
+programming experience is very good so far. Much development is still to be
+done to make facts-db a successful project.
 
 [cl-facts](https://github.com/facts-db/cl-facts) is a Common Lisp
 implementation of facts-db. It is available under the ISC license.
