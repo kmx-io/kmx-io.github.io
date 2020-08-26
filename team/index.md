@@ -6,8 +6,7 @@ title: Our team
 
 Our team is exclusively composed of freelance contractors.
 
-We have the following positions available. Please contact us at
-contact@kmx.io.
+We have the following positions available :
 
 ## Backend developer
 You master or want to learn the following technologies :
@@ -23,6 +22,8 @@ You master or want to learn the following technologies :
    - Elixir / Phoenix
    - Ruby / Ruby on Rails
 
+Please send us your resume at contact@kmx.io.
+
 ## Frontend developer
 You master the following technologies :
  - Javascript 6 (babel)
@@ -31,13 +32,15 @@ You master the following technologies :
  - Webpack
 
 ## Web designer
-Please send us your portfolio and resumé at contact@kmx.io.
 
 ## User interface (UI)
-Please send us your portfolio and resumé at contact@kmx.io.
 
 ## User experience (UX)
-Please send us your portfolio and resumé at contact@kmx.io.
 
 ## SEO and digital marketing
-Please get in touch at contact@kmx.io.
+
+# Location
+Paris, France
+
+# Get in touch
+Please send us your portfolio and resumé at contact@kmx.io.
