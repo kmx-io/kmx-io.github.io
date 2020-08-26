@@ -73,7 +73,16 @@ notion of bitrot has almost disappeared.
 The open-source (and free) native compilers are quite young and the
 open source community is on the rise. The party is just starting now.
 
-#### 2.4.1 cffi-posix
+#### 2.4.1 [cl-facts](https://github.com/facts-db/cl-facts)
+[![(cl-facts)](https://avatars0.githubusercontent.com/u/38696724?u=74a549e6adb7e60bbfaa9f2088a8b2d81816c58e&v=4)](https://github.com/facts-db/cl-facts)
+
+[facts-db](https://github.com/facts-db) is an in-memory graph database
+implemented in various languages.
+
+[cl-facts](https://github.com/facts-db/cl-facts) is a Common Lisp
+implementation of facts-db.
+
+#### 2.4.2 cffi-posix
 [![(cffi-posix)](https://avatars3.githubusercontent.com/u/28656020?s=96)](https://github.com/cffi-posix)
 
 [cffi-posix](https://github.com/cffi-posix)
@@ -82,7 +91,7 @@ is an open-source project to portably and regularly expose the
 API to Common Lisp programs using
 [CFFI](https://common-lisp.net/project/cffi/)
 
-#### 2.4.2 cl-stream
+#### 2.4.3 cl-stream
 [cl-stream](https://github.com/cl-stream)
 is an experimental project to replace Common Lisp streams with
 streams supporting any type of data and non-blocking semantics,
@@ -100,7 +109,7 @@ and
 [Thot](https://github.com/RailsOnLisp/thot)
 for an example usage.
 
-#### 2.4.3 adams
+#### 2.4.4 adams
 [![(adams)](https://avatars1.githubusercontent.com/u/38501850?s=96)](https://github.com/cl-adams/adams)
 
 [Adams](https://github.com/cl-adams/adams)
@@ -114,7 +123,13 @@ Currently it allows automated administration of users, groups and
 packages on Linux and OpenBSD without any additional requirement
 or installation on the target machines.
 
-#### 2.4.4 RailsOnLisp
+#### 2.4.5 Thot
+[![Thot](https://repository-images.githubusercontent.com/86985450/bb450a80-61f4-11ea-8007-754183b76786)](https://github.com/RailsOnLisp/thot)
+
+[Thot](https://github.com/RailsOnLisp/thot)
+Threaded HTTP server supporting epoll and kqueue in Common Lisp.
+
+#### 2.4.6 RailsOnLisp
 [![ROL](https://avatars2.githubusercontent.com/u/11281575?s=96)](https://github.com/RailsOnLisp)
 
 [RailsOnLisp](https://github.com/RailsOnLisp)
@@ -124,11 +139,6 @@ inspired by [RubyOnRails](https://rubyonrails.org/).
 The goal is to give Ruby programmers an insight into Common Lisp
 through the Rails API and principles.
 
-#### 2.4.5 Thot
-[![Thot](https://repository-images.githubusercontent.com/86985450/bb450a80-61f4-11ea-8007-754183b76786)](https://github.com/RailsOnLisp/thot)
-
-[Thot](https://github.com/RailsOnLisp/thot)
-Threaded HTTP server supporting epoll and kqueue in Common Lisp.
 
 ### 2.5 Ruby
 [Ruby](https://www.ruby-lang.org/) is nice.
