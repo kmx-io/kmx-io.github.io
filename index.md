@@ -4,10 +4,16 @@ title: Elixir, Ruby, C, Common Lisp, UNIX
 
 ## 1 [Hosting](/hosting)
 
+Dedicated hardware, OpenBSD, nginx hosting.
+We host your Elixir, Ruby, Common Lisp, C/C++ project.
+
 ## 2 Development
 Commercial and open-source development, mainly targeting UNIX.
 
-### 2.1 [Elixir](/elixir)
+We can deliver small websites rapidly and large scale web applications
+on time and budget using Elixir/Phoenix.
+
+### 2.1 [Elixir / Phoenix](/elixir)
 
 We recommend [Elixir](/elixir) and Phoenix for website development.
 
@@ -151,6 +157,13 @@ through the Rails API and principles.
 <https://github.com/thodg/slides>
 
 
+## 4 Contact
+
+We are available for free-lance contracting.
+If you need to outsource hosting, maintenance, or development please get in touch.
+
+Contact us with your project details and budget at contact@kmx.io.
+
 -----
 
-&copy; 2018-2020 kmx.io
+&copy; 2018-2020 Thomas de Grivel <thoxdg@gmail.com>
