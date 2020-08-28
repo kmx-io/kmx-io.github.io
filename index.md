@@ -159,7 +159,6 @@ through the Rails API and principles.
 
 <https://github.com/thodg/slides>
 
-
 ## 4 Contact
 
 We are available for free-lance contracting.
@@ -167,7 +166,10 @@ If you need to outsource hosting, maintenance, or development please get in touc
 
 Contact us with your project details and budget at contact@kmx.io.
 
-## 5 [Our team](/team/)
+### 4.1 [Our team](/team/)
+
+
+## 5 [Links](/links)
 
 -----
 
