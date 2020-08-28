@@ -161,12 +161,12 @@ through the Rails API and principles.
 
 ## 4 Contact
 
+### 4.1 [Our team](/team/)
+
 We are available for free-lance contracting.
 If you need to outsource hosting, maintenance, or development please get in touch.
 
 Contact us with your project details and budget at contact@kmx.io.
-
-### 4.1 [Our team](/team/)
 
 
 ## 5 [Links](/links)
