@@ -59,6 +59,14 @@ It sends commands through
 It supports rule matching to allow git commands
 based on an environment variable set in authorized_keys file.
 
+#### 2.2.3 facts_db
+[facts_db](https://github.com/facts-db/facts_db)
+is a graph database in C99.
+
+With facts_db you can structure NULL terminated strings into a graph.
+Join queries are considered the norm in a graph database and are as fast
+as normal queries. facts_db is small footprint, open-source and
+portable.
 
 ### 2.3 C++
 
